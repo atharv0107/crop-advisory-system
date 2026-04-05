@@ -21,8 +21,12 @@ Click the link below to open and interact with the High-Fidelity design:
 
 ---
 
-## 🧪 Testing & Experiment
-**Goal:** Observe if a user can easily find the market prices feature without help.
+---
 
-* **Result:** The user successfully found the feature in under 10 seconds.
-* **Feedback:** The user felt the text size was good, but suggested making the "Alerts" button slightly larger for easier tapping on mobile.
+## 🧪 Testing & Experiment
+**Status: Work in Progress ⏳**
+
+We are currently conducting 10 role-playing experiments to test this prototype. We are asking users to pretend to be different types of farmers (like an older farmer or a tech-savvy farmer) to see if they can easily use the app. 
+
+*Feedback and the final results table will be uploaded here soon!*
+
