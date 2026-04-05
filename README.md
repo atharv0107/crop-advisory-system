@@ -17,7 +17,7 @@ Click the link below to open and interact with the High-Fidelity design:
 [🔗 Open Figma Prototype](https://www.figma.com/make/Lmexmdzie0hmso3iC9r0ia/App-prototype?fullscreen=1&t=YSAmLu1YwbcWvPDs-1)
 
 ### 📸 App Preview
-![App Screenshot](screenshot1.png)
+![App Screenshot](screenshort1.png)
 
 ---
 
